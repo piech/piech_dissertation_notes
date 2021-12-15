@@ -1,4 +1,4 @@
-#David Piech disserration updates and errata page
+# David Piech disserration updates and errata page
 
 Updates: none yet.
 
